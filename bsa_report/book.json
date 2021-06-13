@@ -1,0 +1,27 @@
+{
+    "title" : "BSA分析报告",
+    "author" : "zengqiangzi",
+    "plugins": [
+      "-search",
+      "mermaid-gb3",
+      "chapter-fold",
+      "expandable-chapters-small",
+      "popup",
+      "page-treeview",
+      "back-to-top-button",
+      "splitter",
+      "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+            "insert-logo": {
+                "url": "file/logo.png",
+                "style": "background: none; max-height: 30px; min-height: 30px"
+            },
+            "tbfed-pagefooter": {
+                "copyright":"Copyright &copy zqz.wuxs.vip.com 2021",
+                "modify_label": "该文件修订时间：",
+                "modify_format": "YYYY-MM-DD HH:mm:ss"
+            }
+        }
+    }
+    
